@@ -1,3 +1,9 @@
+
+
+  <p align="center">
+    <a href="https://app.railyard.run/deploy?repo=https://github.com/Openpanel-dev/openpanel"><img src="https://app.railyard.run/deploy/badge" alt="Deploy to Railyard"></a>
+  </p>
+
 ![hero](apps/public/public/ogimage.png)
 
 <p align="center">
