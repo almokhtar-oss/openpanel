@@ -12,17 +12,6 @@
     An open-source alternative to Mixpanel
     <br />
     <br />
-    <a href="https://openpanel.dev">Website</a>
-    ·
-    <a href="https://openpanel.dev/docs">Docs</a>
-    ·
-    <a href="https://dashboard.openpanel.dev">Sign in</a>
-    ·
-    <a href="https://go.openpanel.dev/discord">Discord</a>
-    ·
-    <a href="https://twitter.com/OpenPanelDev">X/Twitter</a>
-    ·
-    <a href="https://twitter.com/CarlLindesvard">Creator</a>
     ·
   </p>
   <br />
